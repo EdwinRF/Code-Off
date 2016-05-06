@@ -1,17 +1,3 @@
-![Code Off](http://www.prolificidea.com/assets/img/code_off-logo.png "Code Off")
-
-Code Off is an initiative that challenges developers to take 30 minutes off a Friday afternoon to work on something interesting with their peers. Code Off also aims to help developers expand their Github portfolio and collaborate with the development community. Each Friday afternoon at 15:30 CAT a new problem will be released on Github. Fork the repository, and get started.
-The automated leaderboard is still in development. We encourage you to collaborate with other developers on Github.
-
-http://www.prolificidea.com/codeoff.html
-
-# How to Participate?
-Fork the Code Off repo and push your solution to your fork.
-
-# Notice
-The leaderboard is currently outdated and we're in the process of automating and updating it.
-Please send through any suggestions to info[at]prolificidea[dot]com
-
 # Code Off #10 - Battle Distress Call
 
 ## Premise
@@ -65,9 +51,9 @@ Below is the international Morse code translations. Separate letters with pipe (
 For obfuscation, your team decided to replace the number of consecutive dots with a number, and replace the number of consecutive dashes with the letter of the alphabet at that position. E.g. S = ... = 3, Q = --.- = b1a, F = ..-. = 2a1.
 
 ### Example
-Sentence: I AM IN TROUBLE
-Morse Code: ../.-|--/..|-./-|.-.|---|..-|-...|.-..|.
-Obfuscated Morse Code: 2/1A|B/2|A1/A|1A1|C|2A|A3|1A2|1
+* Sentence: I AM IN TROUBLE
+* Morse Code: ../.-|--/..|-./-|.-.|---|..-|-...|.-..|.
+* Obfuscated Morse Code: 2/1A|B/2|A1/A|1A1|C|2A|A3|1A2|1
 
 ### Input
 An example input text file:
